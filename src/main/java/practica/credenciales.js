@@ -1,0 +1,2 @@
+var email = '';
+var tipo ='';
